@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dyurnall: for deuoute soules to ordre them selfe therafter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1532</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20515</idno>
+            <idno type="STC">STC 6928</idno>
+            <idno type="STC">ESTC S109630</idno>
+            <idno type="EEBO-CITATION">99845277</idno>
+            <idno type="PROQUEST">99845277</idno>
+            <idno type="VID">10167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dyurnall: for deuoute soules to ordre them selfe therafter.</title>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Robert wyer, dwellynge at the sygne of saynt Iohan Euangelyst, in saynt Martyns parysshe, in the bysshop of Norwytche rentes besyde charynge Crosse,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1532?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date suggested by STC.</note>
+                  <note>Running title reads: Ihesus Maria.</note>
+                  <note>Title page verso has 52x42 mm woodcut crucifixion (Hodnett 2498).</note>
+                  <note>Signatures: a⁴ B⁴ C² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:10167:1"/>
+            <pb facs="tcp:10167:1"/>
+            <p>¶ A dyurnall: for deuoute ſou<g ref="char:EOLunhyphen"/>les: to ordre them ſelfe therafter.</p>
+            <p>
+               <figure>
+                  <figDesc>depiction of St. John writing the Book of Revelation on Patmos, actually the altered printer's device of Robert Wyer (who worked at the sign of St. John the Evangelist in the Bishop of Norwich's rents at Charing Cross)</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:10167:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of the Crucifixion, with the Virgin Mary and St. John at the foot of the Cross</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="book_of_devotional_exercises">
+            <pb facs="tcp:10167:2"/>
+            <head>Iheſus. Maria.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great cauſe (as I do thyn<g ref="char:EOLunhyphen"/>ke) why we profyte lytell in the way of perfeccion is: that we do not with al our ſtudye and dylyge<g ref="char:cmbAbbrStroke">̄</g>ce / folowe by per<g ref="char:EOLhyphen"/>ſeueraunt exercyſe in our dayly conuerſacy on / the good inſtruccyons and counceylles that be daylye gyuen vs of oure lorde god. The whiche for the gracyous deſyre that he hath of our ſaluacyon: ceaſeth not to admo<g ref="char:EOLhyphen"/>nyſſhe and teche vs / howe we ſhuld enſue and optayne our ſoules helth: and his perpe<g ref="char:EOLunhyphen"/>tuall fauoure: not onely by ſecret inſpyracy on / but alſo by outwarde techynges and en ſamples: that oft tymes we rede &amp; ſe. And this defaulte in ve ryſeth partly of our ne<g ref="char:EOLhyphen"/>lygence / that we gyue no great force of our owne profyte: partly of our frayle and obly<g ref="char:EOLunhyphen"/>uyous memory / that ſoon forgetteth what is taught vs: but yf by often reherſynge it be depeſy wryten and grauen in oure ſtony hertes. ¶ Agaynſt the fyrſte the onely reme<g ref="char:EOLunhyphen"/>dy is a good wyll / the which with the helpe of grace (daylye deſyrynge by contynuall prayers to amende) ſhall at the laſt opteyne that it perſeuerantly deſyreth. Agaynſt the ſeconde defaulte the remedy is: often tymes
+<pb facs="tcp:10167:3"/> to rede or here thoſe thynges the which wol<g ref="char:EOLunhyphen"/>de alwaye be had in mynde. wherfore I ha<g ref="char:EOLunhyphen"/>ue accordynge to your deuout requeſt / noted breuely i<g ref="char:cmbAbbrStroke">̄</g> this lytel papyre thre exercyſes: the which I haue many tymes cou<g ref="char:cmbAbbrStroke">̄</g>ceylled you to vſe at thre tymes of the daye ſpecyally / that is to ſay in the mornynge when ye ryſe<g ref="char:EOLhyphen"/>at your meate / and when ye go to reſte.</p>
+            <div type="part">
+               <head>¶ In the mornynge.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>S ſoon as ye be ful wakyn<g ref="char:EOLunhyphen"/>ge marke well what thyng co<g ref="char:cmbAbbrStroke">̄</g>meth fyrſt to your mynde And yf ye haue ben wakyn<g ref="char:EOLunhyphen"/>ge at any tyme of the nyght paſt / what reme<g ref="char:cmbAbbrStroke">̄</g>brau<g ref="char:cmbAbbrStroke">̄</g>ce ye haue had of god. And yf ye fynde that any thynge hath occu<g ref="char:EOLunhyphen"/>pyed your hert then the rule of perfeccyon re<g ref="char:EOLunhyphen"/>quyreth / the whiche is that our herte be at al<g ref="char:EOLunhyphen"/>tymes vnyd and knytte vnto god / eyther by actuall loue and contemplacyon of his goodnes with de we thankes gyuynge for his benefytes / or elles by contynuall prayer &amp; confeſſyon of our owne euylles. ¶ Then anone with great heuynes complayne of your ſelfe knowlegyng that this i<g ref="char:cmbAbbrStroke">̄</g>perfeccy<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:10167:3"/> is founde in you for want of dylygent ghoſtly exercyſe in the tyme paſt. And with a feruent deſyre to amende from thenſforth: begyn anone with humble proſtracyo<g ref="char:cmbAbbrStroke">̄</g> both of ſpyryte and alſo of body (yf ye be alone) to prayſe the gloryous trynyte ſayeng thus. ¶ O beata et benedicta &amp; glorioſa trinitas tibi laus et gloria et grati<g ref="char:EOLunhyphen"/>aru<g ref="char:cmbAbbrStroke">̄</g> actio ab omni creatura tua per<g ref="char:EOLunhyphen"/>infinita ſecula ſeculorum. Amen.</p>
+               <p>Thus in ſentence. O blyſſed and gloryous trynyte / laude / glory and thankes be to the of all thy creatures / worlde without any ende. Amen. ¶ And when ye ſay this pray<g ref="char:EOLhyphen"/>er: ſpeke it not onely with your tongue / but of all your hole herte moſte affectuouſly de<g ref="char:EOLhyphen"/>ſyre that the prayſe / glory and thanke of all goodnes that is or ſhall be wrought by you or any other creature be retourned all onely to hym the which is the begyn<g ref="char:cmbAbbrStroke">̄</g>yng / the myd<g ref="char:EOLunhyphen"/>des &amp; the ende of al thyng y<hi rend="sup">t</hi> is worthy any prayſe. And acuſtome to reherſe this many tymes on the day / ſo oft as ye fele any ghoſt<g ref="char:EOLunhyphen"/>ly / or elles corporall / delectacyon of god / or of his creatures / that is to ſaye when ſoeuer ye be touched with inwarde deuocyon or
+<pb facs="tcp:10167:4"/> good thought: when ye co<g ref="char:cmbAbbrStroke">̄</g>ſydre the graces of ſayntꝭ / when ye be delyted with the be wty of any creature / when your meate &amp; drynke do content your appetyte / and ſo of al other thynges that pleaſeth you. Alwaye ſynge<g ref="char:EOLunhyphen"/>th youre herte and many tymes ſpeke with your mouthe. O beata triuitas. vts<g ref="char:cmbAbbrStroke">̄</g>. But ſpecyally ſe that ye in no wyſe omytte this when ye be moued to vayngſory. And I thynke the contynuall exercyſe of youre h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rte in this one leſſon / ſhall moch promote &amp; encreaſe the grace &amp; loue of god in you.</p>
+               <p>¶ But now retournyng to the mornynges exercyſe when ye do on your clothes / ſe that your mynde be occupyed i<g ref="char:cmbAbbrStroke">̄</g> the prayſe of god thankynge hym that he hath ſo plentuouſly puyded for you al neceſſaryes / many other moch better then ye / beyng i<g ref="char:cmbAbbrStroke">̄</g> nede / and pray hym to moue your herte: &amp; the hertes of other to releue his poore people. And this ye ſhall dylygently remembre both at your fedynge and when ye go to your reſt at nyght.</p>
+               <div type="section">
+                  <p>
+                     <seg rend="decorInit">F</seg>Yrſte when that ye be clothed be<g ref="char:EOLunhyphen"/>fore that ye departe out of your chambre ſaye this ſhorte prayer folowynge before ſome ymage of our lorde Iheſu cryſte / fyrſte
+<pb facs="tcp:10167:4"/> thankynge hym for your creacyon and re<g ref="char:EOLhyphen"/>de<g ref="char:cmbAbbrStroke">̄</g>pcyon ſayenge. ¶ Gratias tibi ago domine Iheſu criſte qui me creaſti<g ref="char:EOLunhyphen"/>redemiſti et preordinaſti ad hoc qd ſum: tu ſcis quid de me facere vis / fac de me ſecu<g ref="char:cmbAbbrStroke">̄</g>dum voluntatem tu<g ref="char:EOLhyphen"/>am cum miſericordia. Amen.</p>
+                  <p>Lorde Iheſu cryſte that haſt created me / he<g ref="char:EOLhyphen"/>demed me / and prcordynat me to be that I am: thou knoweſt what thou wylt do with me / therfore make of me what ſoeuer thy wyll is after thy mercy. Amen.</p>
+                  <p>¶ And when ye ſay this knowlege in your herte that ye are wel content with the eſtate and callynge that ye be in: deſyrynge intyer<g ref="char:EOLunhyphen"/>ly with all youre herte to be obedyent to the ordynaunce of god what ſoeuer it pleaſeth hym to make of you.</p>
+                  <p>¶ Secunderly confeſſe y<hi rend="sup">t</hi> al your lyfe paſt hath ben full of ſynne and moche vnkynd<g ref="char:EOLhyphen"/>nes to warde your lorde god / promyſynge vnfeyningly that ye wyl without any fur<g ref="char:EOLunhyphen"/>ther delaye / with the helpe of his grace this ſame daye begyn a newe lyfe / humbly aſ<g ref="char:EOLhyphen"/>kynge mercye and remyſſyon / ſayenge.</p>
+                  <p>¶ Dn<g ref="char:cmbAbbrStroke">̄</g>e Iheſu criſte ego cognoſco
+<pb facs="tcp:10167:5"/> me grauiter peccaſſe / et libenter vo lo me emendare per gratiam tuam miſerere mei propter amaram paſ<g ref="char:EOLhyphen"/>ſionem tuam. Amen. O lorde Iheſu cryſte I knowe that I haue greuouſly ſyn<g ref="char:EOLunhyphen"/>ned / and gladly I wyll amende me by thy grace: haue mercy on me for thy bytter paſſy<g ref="char:EOLunhyphen"/>on. ¶ And when ye ſaye thus / haue before your eyes ſome of your greateſt offences y<hi rend="sup">t</hi> moſte may moue you to ſhame of your ſelf and to contrycyon.</p>
+                  <p>¶ Thyrdlye vtterly dyſprayrynge of your ſelfe (thynkyng that ye are not in any wyſe able or ſuffycye<g ref="char:cmbAbbrStroke">̄</g>t to ordre youre owne lyfe &amp; to gyde your ſelfe in the waye of vertue) co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>myt you fully to the prouyde<g ref="char:cmbAbbrStroke">̄</g>ce of god &amp; ſay ¶ Domine Iheſu criſte qui ſolus es ſapientia patris / tu ſcis que mi<g ref="char:EOLhyphen"/>chi peccatori expediunt, prout tibi placet / et ſicut i<g ref="char:cmbAbbrStroke">̄</g> oculis tue maieſta<g ref="char:EOLhyphen"/>tis videtur de me / ita fiat cum mi<g ref="char:EOLhyphen"/>ſericordia. Amen. O lorde Iheſu cryſte that onely arte the wyſdom of the father / thou knoweſt what thyngꝭ are to me expe<g ref="char:EOLhyphen"/>dyent / as it pleaſeth the: &amp; as it is ſeen in the
+<pb facs="tcp:10167:5"/> eyes of thy maieſtie of me / ſo be it with mer<g ref="char:EOLunhyphen"/>cye. Amen. ¶ And when ye ſay thus: offre your ſelfe perpetually to be obedyent to all ghoſtly counceylles and mouynges of the holy ghoſte / to the power of youre freyltye. Vnto the houre of dethe: ſayenge in remem<g ref="char:EOLhyphen"/>braunce therof. ¶ In manus tuas do<g ref="char:EOLunhyphen"/>mine. &amp;c. Lorde in to thy handes I co<g ref="char:cmbAbbrStroke">̄</g>men<g ref="char:EOLunhyphen"/>de my ſoule and bodye: hauynge a full pur<g ref="char:EOLhyphen"/>poſe to be wylful to dye: when ſoeuer it ſhal pleaſe our lorde to call you. ¶ After that ye haue thus done: ye ſhall gyue thankes to the trynyte (as ye before haue ben taughte) for thre ſpeciall excellentꝭ gyuen to our bleſſyd lady: ſayenge thryes. Aue maria. Great<g ref="char:EOLunhyphen"/>ly deſyryng to do ſome thynge before ye dye that may be pleaſaunt to her. And then ha<g ref="char:EOLunhyphen"/>ue mynde of your good aungell and other ſayntꝭ to whom ye haue ſpecyall deuocyon: namely thoſe whiche ſhall be honoured in the churche that daye. And of this ye maye occupye your mynde in the waye to warde the churche / prepayrynge your herte to pray<g ref="char:EOLunhyphen"/>er / by the remembraunce of ſome parte of theyr lyfe. And when ye come to churche / ſe that ye do nothynge onely of cuſtome / as it were a thyng that hath no reaſon or vnder
+<pb facs="tcp:10167:6"/> ſtandynge. ¶ But in all thynge conſydre the preſence of your lorde god: hauyng hym co<g ref="char:cmbAbbrStroke">̄</g>tynually before the eye of your ſoule. and ſo behaue you in all thynges / that your ſer<g ref="char:EOLhyphen"/>uyce may be pleaſynge to hym the which re<g ref="char:EOLunhyphen"/>quyreth of vs not onely our corporall exer<g ref="char:EOLhyphen"/>cyſe / but moche more the exercyſe of our her<g ref="char:EOLhyphen"/>te. And before ye departe out from the chur<g ref="char:EOLhyphen"/>che forget not to thanke oure lorde with all your hert that he hath gyuen you grace that day to be preſent at his holy ſeruyce: and ſu<g ref="char:EOLhyphen"/>che leyſure that ye maye attende without worldly let your ſoules helthe: thynking y<hi rend="sup">t</hi> many one in the worlde that be compelled of nede to applye theyr bodely labours<g ref="char:punc">▪</g> yf they myght haue ſuche ſeyſure as ye haue to enſue the ſpyrytuall lyfe: ſhuld moche more profyte in vertue than ye do: and be peraue<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ture (not withſtandynge all theyr beſynes) moche more feruent in the loue of god. And then call to mynde howe many perſones be<g ref="char:EOLunhyphen"/>ſet from the preſence of the churche to prouy<g ref="char:EOLunhyphen"/>de for your nede / meate / drynke / and clothe: and hertely co<g ref="char:cmbAbbrStroke">̄</g>mende them al at the leſt inge<g ref="char:EOLunhyphen"/>nerall to oure lorde and his ſayntes.</p>
+                  <p>¶ In departynge from the churche beware that ye fall not anone to ydle ſpeche: but in
+<pb facs="tcp:10167:6"/> the waye conſydre by ordre / howe ye haue ben occupyed in the churche / and what deuo<g ref="char:EOLunhyphen"/>cyon oure lorde hath gyuen you / and what good purpoſe ye haue ben moued to / and gy<g ref="char:EOLunhyphen"/>ue god and his ſayntes thankes with a full deſyre to folowe them. And lykewyſe co<g ref="char:cmbAbbrStroke">̄</g>ſy<g ref="char:EOLunhyphen"/>dre wherin ye haue be fawty and neclyge<g ref="char:cmbAbbrStroke">̄</g>t / &amp; be ſory therfore with a purpoſe to be more ware from thenſforth. And thus ye ſhal do after euery worke / before ye dyuerte to any other occupacyon. ¶ And when ye come ho<g ref="char:EOLunhyphen"/>me to your chambre / ſe y<hi rend="sup">t</hi> ye demeane your ſelf there lyke as at the churche: at all tymes conſyderynge the preſence of god / and his aungels. ¶ Fyrſt at your entryng / on your knees ſalute our ſauyour and his mother / &amp; applye your ſelf to ſome profytable occupa<g ref="char:EOLunhyphen"/>cyon / conſyderynge in the begynnyng whe<g ref="char:EOLunhyphen"/>ther it be of neceſſytye or elles voluntary. Yf ſo be that it be of neceſſytye it maye not be omytted / But and yf it be of voluntarye then co<g ref="char:cmbAbbrStroke">̄</g>ſydre whether there be any other thin<g ref="char:EOLunhyphen"/>ge of more neceſſytye and profyte that may be done at that ſame tyme or not / and ſay to your ſelfe woldeſt thou be thus occupyed yf thou ſhuldeſt dye this daye / and conſtrayne youre ſelfe with the fere of dethe to ſpende
+<pb facs="tcp:10167:7"/> your tyme at euery houre to the moſte profy<g ref="char:EOLunhyphen"/>te of youre ſoule / offerynge your herte with your werke both at the begynnynge and at the endynge vnto our lorde. And before ye departe from your chambre / co<g ref="char:cmbAbbrStroke">̄</g>myt your cu<g ref="char:EOLhyphen"/>ſtodye and gouernaunce to our lorde and to your good aungell.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>¶ Before your meate.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>Repare your herte dylygent<g ref="char:EOLhyphen"/>ly to com therto with co<g ref="char:cmbAbbrStroke">̄</g>punc<g ref="char:EOLunhyphen"/>cyon / the which is the moſt ex<g ref="char:EOLunhyphen"/>cellent remedy agaynſt al ſe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſuall appetytes. And though there ben many meanes to induce compu<g ref="char:cmbAbbrStroke">̄</g>c<g ref="char:EOLhyphen"/>cyon / yet that notwithſtandynge it ſhall be expedyent / that ye be determyned euery day to ſome inſpecyal / wherfore I ſhal aſſygne to you lyke as ye deſyred for euery daye in the weke one refeccyon of our lorde Iheſu / y<hi rend="sup">t</hi> ye may be accuſtomed to fede with hym.Theſe ſeuen ye ſhall fynde in vita chriſti ſe<g ref="char:EOLunhyphen"/>cundum bonauenturam: in the chapytres here intytled.
+<list>
+                     <item>¶ On moneday the .xvii. chapytre .i.</item>
+                     <item>On tueſdaye the .xxii. chapytre .ii.</item>
+                     <pb facs="tcp:10167:7"/>
+                     <item> On wedneſdaye the .xxiii. chapytre .iii.</item>
+                     <item>On thurſdaye the .xxv. chapytre .iiii.</item>
+                     <item>On frydaye the .xxxix. chapytre .v.</item>
+                     <item>On ſaturdaye the .xxxiii. chapytre .vi.</item>
+                     <item>On ſondaye the .lxii. chapytre .vii.</item>
+                  </list>
+               </p>
+               <p>¶ Theſe chapitres ye ſhal vſe to rede eyther in part or hole as may be ſuffycye<g ref="char:cmbAbbrStroke">̄</g>t to ſtyrre your herie to compu<g ref="char:cmbAbbrStroke">̄</g>ccyon. But yf ye wyll fynde ſhortly the fruyte of your redynge / ſe y<hi rend="sup">t</hi> ye begyn with a great deſyre to take pro<g ref="char:EOLhyphen"/>fyte therof / &amp; aſke of our lorde helpe ſayeng.</p>
+               <p>¶ Emitte domine ſapie<g ref="char:cmbAbbrStroke">̄</g>tiam tuam de ſede magnitudinis tue vt mecu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ſit et mecum laboret / vt ſciam quid acceptum ſit coram te in omni tem<g ref="char:EOLunhyphen"/>pore. Amen. Good lorde ſende oute thy wyſdom from the ſeet of thy magnyfyce<g ref="char:cmbAbbrStroke">̄</g>ce that it maye be with me and laboure with me / ſo that I may knowe what is accepta<g ref="char:EOLunhyphen"/>ble afore the at all tymes. Then begyn to re<g ref="char:EOLunhyphen"/>de euery thynge reuerently / depely merkyn<g ref="char:EOLhyphen"/>ge eche worde that ye rede / oft tymes aſkyn<g ref="char:EOLunhyphen"/>ge grace to profyte.</p>
+               <p>¶ And when ye ſhall make an ende / conſy<g ref="char:EOLunhyphen"/>dre your doynge as I haue ſayd before / and gyue god thankes for his helpe / and co<g ref="char:cmbAbbrStroke">̄</g>feſſe
+<pb facs="tcp:10167:8"/> your owne neclyge<g ref="char:cmbAbbrStroke">̄</g>ce. And then gyue than<g ref="char:EOLhyphen"/>kes alſo to our lord for the ſaynt that wrote thoſe thynges for the profyte of your ſoule: &amp; ſay i<g ref="char:cmbAbbrStroke">̄</g> the honour of hym one. Aue maria. And ſo co<g ref="char:cmbAbbrStroke">̄</g>mendynge your ſelfe vnto oure lorde / come to your meate with heuynes of herte that ye be co<g ref="char:cmbAbbrStroke">̄</g>pelled for the nede of your body (the which is your co<g ref="char:cmbAbbrStroke">̄</g>tynuall enemye) to leue the ſeruyce of youre moſte beloued ſpouſe. ¶ After this when ye haue ſayd gra<g ref="char:EOLunhyphen"/>ce (intyerly deſyryng our lord lo blyſſe you and all your co<g ref="char:cmbAbbrStroke">̄</g>pany / and his creatures that ye ſhall fede of) take youre place in ordre as beſemeth / thynkynge youre ſelfe to vſe the to wme of a ſeruau<g ref="char:cmbAbbrStroke">̄</g>t and not of a ſouetayne yf yt ye wyl folowe his example that ſayd. Ego in medio veſtru<g ref="char:cmbAbbrStroke">̄</g> ſum ſicut qui miniſtrat. I am amongeſt you as it we<g ref="char:EOLhyphen"/>re a mynyſtre or a ſeruaunte. Beynge glad yf all other haue that thynge that co<g ref="char:cmbAbbrStroke">̄</g>tenteth them. And thynke that ye alone be vnwor<g ref="char:EOLunhyphen"/>thy the brede that ye do eate. And obſerue at your meale theſe fyue thynges.</p>
+               <p>¶ Fyrſte that ye fede not gredely withoute conſyderacyon / but before euery tyme that ye ſhall take your meate: lyft your herte vn
+<pb facs="tcp:10167:8"/> to god thankynge hym that he hathe made that creature for your vſe / and then conſy<g ref="char:EOLhyphen"/>dre whyther it be co<g ref="char:cmbAbbrStroke">̄</g>uenyent for the helth of your body: &amp; then take of it moderatly ſeuin<g ref="char:EOLunhyphen"/>ge the beſte for other that be more worthy.</p>
+               <p>¶ The ſeconde is that youre abſtynence be as ſecrete as ye can / ſtandynge rather in the brekynge of your appetytes / and forberyn<g ref="char:EOLhyphen"/>ge of thoſe meates that ye fele yourſelfe mo<g ref="char:EOLunhyphen"/>che inclyned to deſyre: than in any ſyngula<g ref="char:EOLhyphen"/>rytie notable.</p>
+               <p>¶ The thyrde that you refuſe nothynge y<hi rend="sup">t</hi> is offred you / but with great deuocyon re<g ref="char:EOLhyphen"/>ceyue it as ſent of god / gyuynge thankes to hym therfore. And when ye haue taken par<g ref="char:EOLunhyphen"/>te of it / gyue the reſydue as ye thynke beſte / ſpecyally for the noryſſhynge of charyte.</p>
+               <p>¶ The fourth / that in all that tyme ye ſtu<g ref="char:EOLhyphen"/>dye to kepe in your herte the remembraunce of god at euery morſell that ye receyue / gy<g ref="char:EOLhyphen"/>uynge thankes in herte to hym. And euery thynge that ye leue / offre it vnto hym / and your herte withall.</p>
+               <p>¶ The fyft / that ye do not forgette to praye for the pore people (lyke as ye dyd i<g ref="char:cmbAbbrStroke">̄</g> the mor<g ref="char:EOLhyphen"/>nynge.) And when ye haue fedde ſuffycy<g ref="char:EOLhyphen"/>ently / ſo that ye leue alway withe hungry
+<pb facs="tcp:10167:9"/> ſtomacke / beware then of ydle wordꝭ. But yf the co<g ref="char:cmbAbbrStroke">̄</g>uenyency of the company ſo requy<g ref="char:EOLunhyphen"/>reth / to fynde ſuche co<g ref="char:cmbAbbrStroke">̄</g>munycacyo<g ref="char:cmbAbbrStroke">̄</g> that may edyfye your ſelfe and the herers.</p>
+               <p>¶ When ye haue ſayde grace / as ſhortly as ye may conuenyently / without any occaſy<g ref="char:EOLhyphen"/>on departe to your Chambre and recompte with your ſelfe howe you haue done as is before reherſed. ¶ Then be moche ware of ydlenes: and applye your ſelfe to ſome pro<g ref="char:EOLhyphen"/>fytable exercyſe. And yf any thynge wold occupye your mynde that before ye haue her<g ref="char:EOLunhyphen"/>de or ſeen: an one retourne in herte vnto our Lorde Iheſu / and tell hym all the mater / whatſoeuer it be. Yf ye be dyſcontentyd ma<g ref="char:EOLunhyphen"/>ke your playnt vnto hym. Yf ye haue done amyſſe / confeſſe forth with to hym. Yf ye be in any doubte or perplexyte aſke counceyll of hym. Yf ye be ſycke o: dyſeaſed let hym be your Phyſycyon. And generally at all ty<g ref="char:EOLhyphen"/>mes haue hym ſyttynge in the myddyſt of your herte / as your Iuge / your preeſt / your mayſter and leche.</p>
+               <p>¶ When the after noone is paſſed in vertu<g ref="char:EOLhyphen"/>ous oc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upacyon / ordre your ſelfe in the ſer<g ref="char:EOLhyphen"/>uyce of god / before your ſupper and in the tyme t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>of ſyke as is before reherſyd. So
+<pb facs="tcp:10167:9"/> that ye endeuer your ſelfe alwaye to do bet<g ref="char:EOLhyphen"/>ter the after noone than ye dyd the forenone And the ſeconde daye better than ye dyd the fyrſte / and ſo forth to your lyues ende. But in all thynges beware that ye be not moche anxious or penſyfe / nor longe abydynge in any heuyneſſe / nor yet greatly labourynge for to wepe / though ye fynde your ſelfe mo<g ref="char:EOLhyphen"/>che neclygent: and dayly fawty lytell or no<g ref="char:EOLunhyphen"/>thynge amendynge. For it is nother neceſſa<g ref="char:EOLunhyphen"/>ry nor profytable / but moche lette of profy<g ref="char:EOLhyphen"/>te to them / that fynde in them ſelfe a good wyll / to ſerue god. But rather / anone as ye fynde and haue aſpyed your defaute and co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>feſſyd it to our lorde / tha<g ref="char:cmbAbbrStroke">̄</g>ke hym of his great pacyence / that he hath with you / &amp; by ſuche meanes rendreth you to the knowlege of your ſelfe / and therby vnto mekenes. And ſynge alwaye in your herte. O beata et glorioſa trinitas. As it is beforeſayde. For it is moche better in all thynges to con<g ref="char:EOLhyphen"/>ſydre the goodnes of god: and to prayſe hym therfore / than to conſydre your owne euyll / and to mourne for it. And example moche notable for this / ye haue in vitis patrum / of two bretherne.</p>
+            </div>
+            <div type="part">
+               <head>¶ Before nyght.</head>
+               <pb facs="tcp:10167:10"/>
+               <p>
+                  <seg rend="decorInit">A</seg>T complyne tyme / call to mynde in ordre the benefites of our Lorde ſhewed to you that daye / and thanke hym for them. And co<g ref="char:cmbAbbrStroke">̄</g>trary wyſe your neclygence / and all your dedes / wordꝭ and thoughtes / makyng co<g ref="char:cmbAbbrStroke">̄</g>feſſyon of them to our lorde. And thoſe thyngꝭ that be nota<g ref="char:EOLunhyphen"/>ble / wherof ye ſhuld be moſte aſſhamed to ſhewe / Imprynt them in your mynde with purpoſe to confeſſe them to your ghoſtly fa<g ref="char:EOLunhyphen"/>ther / aſkynge grace that ye maye ſo do.</p>
+               <p>¶ Conſydre alſo what ſayntes inſpecyall ye haue ſerued that daye / and what ye haue done to theyr honour / comptynge that daye in maner loſte / that ye do not obteyne ſome frendſhyp of the cytezens of heuen / where ye ſhall euermore dwell. ¶ And then teme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bre what ſayneꝭ be the next day / with a de<g ref="char:EOLhyphen"/>ſyre to honour them. ¶ After all this / when ye haue alſo prayed for the poore people / ſy<g ref="char:EOLhyphen"/>ke as ye dyd in the mornyng / co<g ref="char:cmbAbbrStroke">̄</g>mende your ſelfe vnto our lorde / our ladye / youre good au<g ref="char:cmbAbbrStroke">̄</g>gell / and all ſayntes with the ſame pray<g ref="char:EOLunhyphen"/>ers / &amp; in the ſame ordre as is before wryten. And the tyme that ye do of youre clothes / &amp; tyll that ſlepe cloſe youre ſenſes / kepe youre
+<pb facs="tcp:10167:10"/> herte dylygently occupyed in remembrynge the goodnes of our Lorde to warde you: and ſpecyally his gracyous prouydence and lon<g ref="char:EOLunhyphen"/>ge pacyence that he hath with you from day to daye. ¶ And then conceyue a great deſyre and a feruent purpoſe to begynne the nexte daye tymely / to amende your lyfe. ¶ And yf ye contynewe this ordre and ceaſe not / but perſeuerantly enforſe your ſelfe to kepe it to your lyues ende. I truſte in goddes mercy by the prayers of his holy mo<g ref="char:EOLhyphen"/>ther and all ſayntes / ye ſhall en<g ref="char:EOLhyphen"/>creaſe in good lyfe / and in the loue and fauoure of our lorde Iheſu. To whom be all prayſe / ho<g ref="char:EOLhyphen"/>noure / and glorye with out ende. Amen.</p>
+            </div>
+            <closer>¶ Deo gratias.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted by me Robert wyer / dwel<g ref="char:EOLhyphen"/>lynge at the Sygne of ſaynt Iohan Euangelyſt / in ſaynt Martyns paryſſhe / in the byſſhop of Norwytche rentes beſyde charyn<g ref="char:EOLhyphen"/>ge Croſſe.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <pb facs="tcp:10167:11"/>
+            <p>¶ Cum priuilegio Regali: pro ſpatio ſeptem annorum.</p>
+            <p>⸫</p>
+            <p>¶ And be for to ſell at the ſygne of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euangelyſte.</p>
+         </div>
+         <div type="printers_device">
+            <p>
+               <figure>
+                  <figDesc>printer's device of Robert Wyer (who worked at the sign of St. John the Evangelist in the Bishop of Norwich's rents at Charing Cross) depicting St. John the Evangelist, writing the Book of Revelation on the island of Patmos, with an eagle on his right holding an inkwell and Wyer's name and a merchant's mark below</figDesc>
+                  <head>ROBERT <gap reason="symbol" extent="1 letter">
+                        <desc>〈☐〉</desc>
+                     </gap> WYER.</head>
+               </figure>
+               <pb facs="tcp:10167:11"/>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
